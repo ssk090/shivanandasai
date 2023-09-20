@@ -1,0 +1,23 @@
+{
+  "name": "shivanandasai",
+  "version": "1.0.0",
+  "description": "a cli for printing portfolio of shivananda sai",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "shivanandasai": "index.mjs"
+  },
+  "keywords": [
+    "cli",
+    "portfolio"
+  ],
+  "author": "ShivanandaSai",
+  "license": "ISC",
+  "dependencies": {
+    "cli-markdown": "^3.0.5",
+    "commander": "^11.0.0",
+    "shivanandasai": "^1.0.0"
+  }
+}
